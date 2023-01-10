@@ -1,5 +1,5 @@
 # Animated Toggle Switch
-This is a simple toggle switch animation created using HTML and CSS. It can be used as an on/off button or as a switch to toggle between two different options
+This is a simple toggle switch animation created using HTML and CSS. It can be used as an on/off button or as a switch to toggle between two different options.
 
 ## Features
 * Pure HTML and CSS
